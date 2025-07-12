@@ -81,7 +81,7 @@ href="https://whatsapp.com/channel/0029VbAqgKDIHphIflEOJT0I">
   </a>
 
 
-Incase of any issues, contact me  [here](https://wa.me/+27623649420) via WhatsApp.
+Incase of any issues, 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘂𝘀  [here](https://wa.me/+256789186211) via WhatsApp.
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
@@ -90,6 +90,6 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Guanxii1/Re-Jeong-v4/blob/main/LICENSE)
 
-YOU WILL DIE🪦
+𝗡𝗘𝗩𝗘𝗥 𝗕𝗘 𝗚𝗔𝗬
 
 
