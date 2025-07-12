@@ -7,7 +7,7 @@
 
 
 <a
-href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
+href="https://whatsapp.com/channel/0029VbAqgKDIHphIflEOJT0I">
  <img alt="RE-JEONG-V4" height="300" src="https://telegra.ph/file/019207dd7bf306d343b7e.jpg">
   
 </p>
