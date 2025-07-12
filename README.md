@@ -76,7 +76,7 @@ href="https://whatsapp.com/channel/0029VbAqgKDIHphIflEOJT0I">
   </a>
 
 <p align="left">
-  <a aria-label="Join our group for updates" href="https://chat.whatsapp.com/DuQU3pbRi4s6kwd5SW5der" target="_blank">
+  <a aria-label="Join our group for updates" href="https://whatsapp.com/channel/0029VbAqgKDIHphIflEOJT0I" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
