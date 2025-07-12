@@ -1,5 +1,5 @@
 {
-  "name": "𝐙𝐲𝐧𝐓𝐳𝐲",
+  "name": "𝗠𝗔𝗫-𝗖𝗬𝗣𝗛𝗘𝗥-𝗕𝗢𝗧ˣ",
   "version": "𝟏𝟐.𝟎.𝟎",
   "description": "Simple Bot Whatsapp With Baileys",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Re-Jeong",
+  "author": "TRICKS-BOT-DEV",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
