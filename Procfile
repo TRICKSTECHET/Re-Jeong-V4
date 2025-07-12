@@ -1,1 +1,1 @@
-worker: node index.js
+hokes: node index.js
